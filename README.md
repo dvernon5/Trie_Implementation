@@ -23,7 +23,7 @@ A trie (pronounced "try") is a tree-like data structure that stores strings char
 
 ```
 .
-└── trie.cpp    # Everything lives here — TrieNode, TrieSystem, and main
+└── main.cpp    # Everything lives here — TrieNode, TrieSystem, and main
 ```
 
 Two classes keep things organized:
