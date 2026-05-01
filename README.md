@@ -38,7 +38,7 @@ Two classes keep things organized:
 You'll need a C++ compiler (g++ works fine).
 
 ```bash
-g++ -o trie trie.cpp
+g++ -o trie main.cpp
 ./trie
 ```
 
